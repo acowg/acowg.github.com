@@ -1,0 +1,105 @@
+p {
+
+  color: red;
+
+}
+
+
+a {
+
+	color: blue;
+
+}
+
+body {
+
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 1em;
+
+	color: #5F6B61;
+	background-color: #FFDB82;
+ 
+
+}
+
+h1 {
+
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	color: #19714E;
+	background-color: #BF9E70;
+
+	text-align: center;
+
+	text-transform: uppercase;
+
+	
+
+	font-size: 2em;
+
+	padding: 0.25em;
+
+	letter-spacing: 0.25em
+
+;
+}
+
+h2 {
+
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 1.5em;
+	
+	color: #201F74;
+
+}
+
+h3 {
+
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 1em;
+	
+
+	color: #19714E;
+
+	
+}
+
+h4 {
+
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size:1.5em;
+	color: #19714E;
+
+}
+
+EM {
+
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size:1.5em;
+
+   	font-weight:900;
+
+  	font-style:normal;
+
+}
+rt {	
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size:1.5em;
+	color: #19714E;
+
+
+	background-color: #FF9400;
+	border-style: solid;
+	border-color: #E60042;
+	border-width: 3px;
+
+	border-left-width: 3px;
+
+	border-right-width: 3px;
+
+
+	padding: 0.25em;
+
+
+}
+	
+	
